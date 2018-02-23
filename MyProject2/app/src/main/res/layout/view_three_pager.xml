@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/pager3"
+    android:gravity="bottom"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:background="@null"
+        android:textColor="@color/colorBegin"
+        android:onClick="Beginbtn"
+        android:text="开始使用懂球帝"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+</LinearLayout>

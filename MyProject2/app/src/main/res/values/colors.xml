@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorBegin">#FFF7C5D6</color>
+
+    <!--activity_main.xml-->
+    <color name="activity_main_linearLayout_bg">#FFB0E5E9</color>
+
+    <!--activity_app.xml-->
+    <color name="activity_app_tv1">#2eb12a</color>
+
+    <!--activity_login.xml-->
+    <color name="login_tv1">#949494</color>
+    <color name="login">#FFFFFFFF</color>
+
+    <!--activity_register.xml-->
+    <color name="register">#FFFFFF</color>
+    <color name="register2">#000000</color>
+    <color name="register_tv1">#949494</color>
+    <color name="register_tv2">#000000</color>
+
+</resources>

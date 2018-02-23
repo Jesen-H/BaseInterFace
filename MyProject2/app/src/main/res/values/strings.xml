@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MyProject</string>
+
+    <!--activity_main.xml-->
+    <string name="activity_main_tv_weixin">首页</string>
+    <string name="activity_main_tv_content">比赛</string>
+    <string name="activity_main_tv_discover">圈子</string>
+    <string name="activity_main_tv_my">数据</string>
+
+
+    <!--activity_app.xml-->
+    <string name="activity_login_btn_login">登 录</string>
+    <string name="activity_login_btn_register">注 册</string>
+    <string name="activity_login_forget_tv">忘记密码</string>
+    <string name="activity_login_radiobtn_remember">记住密码</string>
+    <string name="activity_login_edit_password">请输入密码</string>
+    <string name="activity_login_edit_user">请输入账号</string>
+    <string name="activity_login_tv_user">账号</string>
+    <string name="activity_login_tv_password">密码</string>
+    <string name="activity_login_tv_title">OFO登录界面</string>
+
+    <!--activity_login.xml-->
+    <string name="activity_login_tv1">忘记密码</string>
+
+
+    <!--activity_register.xml-->
+    <string name="activity_register_tv1">请按上面的“下一步”按钮，即表示你同意</string>
+    <string name="activity_register_tv2">《懂球帝软件许可及服务协议》</string>
+    <string name="activity_register_tv3">《懂球帝版权保护说明》</string>
+
+    <!--activity_app.xml-->
+    <string name="activity_app_tv1">懂球帝</string>
+    <string name="activity_app_tv2">ALL FOOTBALL APP</string>
+
+    <!-- fragment_index.xml -->
+    <string name="fragment_one_tv">IndexFragment</string>
+    <!-- fragment_map.xml -->
+    <string name="fragment_two_tv">MapFragment</string>
+    <!-- fragment_music.xml -->
+    <string name="fragment_three_tv">MusicFragment</string>
+    <!-- fragment_me.xml -->
+    <string name="fragment_four_tv">MeFragment</string>
+
+    <string name="open">demo</string>
+    <string name="close">demo</string>
+
+</resources>

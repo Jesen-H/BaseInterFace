@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="net.hycollege.myproject.MainActivity">
+
+
+    <LinearLayout
+        android:layout_marginTop="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/activity_app_tv1"
+            android:textColor="@color/activity_app_tv1"
+            android:textSize="40dp"
+            android:typeface="serif"/>
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/activity_app_tv2"
+            android:textSize="11dp"
+            android:typeface="serif"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:id="@+id/applogin"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/login"
+            android:textSize="20dp"
+            android:text="@string/activity_login_btn_login"
+            android:background="@drawable/button_shape"/>
+        <Button
+            android:id="@+id/appregister"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/register2"
+            android:textSize="20dp"
+            android:text="@string/activity_login_btn_register"
+            android:background="@drawable/button_shape2"/>
+
+    </LinearLayout>
+</LinearLayout>
